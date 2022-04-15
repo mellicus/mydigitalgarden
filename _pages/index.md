@@ -18,11 +18,9 @@ For Martin Heidegger, it was only through _Dasein_ that the problems of being 
 
 ## Start Here
 
-🌻 Here you'll find my three main research topics:
-
+🌻 [here](https://eeriemind.netlify.app/your-first-note) you'll find my three main research topics.
 <p style="padding: 3em 1em; background: #CF9FFF; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Control]]; [[Panpsychism]]; or [[Extended Mind]] </span> to get started on your exploration.
-</p>
+<span style="font-weight: bold"> 🌼 i hope you'll enjoy your stay! 🌼 </span></p>
 
 
 ### What is this page?
