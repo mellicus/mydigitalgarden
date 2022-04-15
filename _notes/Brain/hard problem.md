@@ -2,5 +2,6 @@ Traditionally, the **hard problem of consciousness** is the problem of explain
 
 ## a proposed solution
 
+[[panpsychism]]
 
 #consciousness #chalmers
