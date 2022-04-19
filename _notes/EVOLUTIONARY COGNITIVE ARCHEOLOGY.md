@@ -1,0 +1,1 @@
+Is that something similar to material engagement theory? cfr. Lambros Malafouris. To be studied more in depth. 
