@@ -16,4 +16,6 @@ For Martin Heidegger, it was only through _Dasein_ that the problems of being 
 My three main interests are [[control]], [[panpsychism]] and [[Speculative Optimism]]. Click on one of them to start browsing through my research.
 
 ### a reading list 
+[This is my Zotero public library](https://www.zotero.org/marcomattei/library), you'll find every paper that you need to read in order to understand my research.
+
 [Here](https://www.are.na/marco-mattei/neuroscience-ch9lpdbmoiw), you'll find the papers that I have on my reading list; here some comments on the papers I've already red. 
